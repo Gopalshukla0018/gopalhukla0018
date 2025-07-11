@@ -6,7 +6,7 @@
 
 
 ## 📫 Connect with Me 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/gopalshukla0018/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" />
   </a>
