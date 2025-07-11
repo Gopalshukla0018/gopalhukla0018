@@ -4,7 +4,6 @@
 🚀 A passionate Frontend Developer building clean, scalable UIs using React.js, Tailwind CSS & JavaScript  
 </p>
 
----
 
 ## 📫 Connect with Me
 
@@ -20,7 +19,6 @@
   </a>
 </p>
 
----
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +34,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" />
 </p>
 
----
 
 ## 📊 GitHub Stats
 
