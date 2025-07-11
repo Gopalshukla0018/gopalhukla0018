@@ -21,7 +21,7 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" />
@@ -38,7 +38,7 @@
 
 <br/>
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=Gopalshukla0018&theme=dracula&hide_border=false&border_radius=5" height="150" />
  
 </p>
