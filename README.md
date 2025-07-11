@@ -5,8 +5,7 @@
 </p>
 
 
-## 📫 Connect with Me
-
+## 📫 Connect with Me 
 <p align="center">
   <a href="https://www.linkedin.com/in/gopalshukla0018/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" />
@@ -41,7 +40,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Gopalshukla0018&theme=dracula&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Gopalshukla0018&theme=dracula&row=1&column=6&no-bg=true&no-frame=false" height="150" />
+ 
 </p>
 
 ---
