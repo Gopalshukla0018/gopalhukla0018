@@ -32,6 +32,7 @@
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" />
   <img src="https://skillicons.dev/icons?i=github" height="40" />
 </p>
-![Gopalshukla0018's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gopalshukla0018&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+<br/>
 
 ![Gopalshukla0018's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gopalshukla0018&theme=vue-dark&hide_border=true)
