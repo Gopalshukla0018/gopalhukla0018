@@ -40,6 +40,7 @@
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=Gopalshukla0018&theme=dracula&hide_border=false&border_radius=5" height="150" />
 </p>
-
+<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gopalshukla0018)](https://git.io/streak-stats)
 
 
