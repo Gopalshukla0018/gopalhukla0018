@@ -35,8 +35,8 @@
 
 
 ## 📊 GitHub Stats
-
+     
 <br/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Gopalshukla0018&card_width=511" alt="GitHub Streak" /></a>
+<img src="https://streak-stats.demolab.com?user=Gopalshukla0018&card_width=511" alt="GitHub Streak" /></a>
 
 
