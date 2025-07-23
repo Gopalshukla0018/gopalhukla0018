@@ -35,7 +35,4 @@
 
 <br/>
 
-![Gopalshukla0018's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gopalshukla0018&theme=vue-dark&hide_border=true)
-
-
-<a herf="https://github-readme-streak-stats.herokuapp.com/?user=Gopalshukla0018&theme=vue-dark&hide_border=true">
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sachindwivedi70&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
