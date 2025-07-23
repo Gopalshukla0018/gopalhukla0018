@@ -33,4 +33,4 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" />
 </p>
 
-# 📊 GitHub Stats: <br/> ![](https://nirzak-streak-stats.vercel.app/?user=Gopalshukla0018&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sachindwivedi70&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) --- [![](https://visitcount.itsvg.in/api?id=sachindwivedi70&icon=0&color=0)](https://visitcount.itsvg.in) <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📊 GitHub Stats: <br/> ![](https://nirzak-streak-stats.vercel.app/?user=Gopalshukla0018&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gopalshukla0018&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) --- [![](https://visitcount.itsvg.in/api?id=sachindwivedi70&icon=0&color=0)](https://visitcount.itsvg.in) <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
