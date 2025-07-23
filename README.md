@@ -32,10 +32,6 @@
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" />
   <img src="https://skillicons.dev/icons?i=github" height="40" />
 </p>
+### 📈 My GitHub Stats
 
-
-## 📊 GitHub Stats
-     
-<br/>
-
-![Gopalshukla0018's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gopalshukla0018&theme=vue-dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gopalshukla0018&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
