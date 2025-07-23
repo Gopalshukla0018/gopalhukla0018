@@ -37,10 +37,6 @@
 ## 📊 GitHub Stats
 
 <br/>
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=Gopalshukla0018&theme=dracula&hide_border=false&border_radius=5" height="150" />
-</p>
-<br/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Gopalshukla0018" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Gopalshukla0018&card_width=511" alt="GitHub Streak" /></a>
 
 
